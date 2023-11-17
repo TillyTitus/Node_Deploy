@@ -10,8 +10,7 @@
   "author": "Otilia Titus",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^9.0.1",
-    "my-ssh-tests-dependency": "git+ssh://git@github.com/TillyTitus/node_deploy.git#main"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
